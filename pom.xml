@@ -26,10 +26,10 @@
         </license>
     </licenses>
     <scm>
-        <tag>v1.2.1</tag>
+        <tag>v1.0.0</tag>
         <url>https://github.com/wmkm0113/neurons-jdk11</url>
         <connection>scm:git:https://github.com/wmkm0113/neurons-jdk11.git</connection>
-        <developerConnection>scm:git:https://github.com/wmkm0113/utils-neurons.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/wmkm0113/neurons-jdk11.git</developerConnection>
     </scm>
     <organization>
         <url>https://nervousync.org/</url>
